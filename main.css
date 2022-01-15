@@ -6,6 +6,7 @@ body {
 .main {
     background-color: #f5a6d4;
     height: 231px;
+    width: auto;
     text-align: center;
     font-size: 50px;
     font-family: 'Comfortaa', cursive;
